@@ -1,4 +1,4 @@
-package scanner;
+package base.scanner;
 
 /**
  * @author lantian

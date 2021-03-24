@@ -1,4 +1,4 @@
-package scanner;
+package base.scanner;
 
 public class PrimeNumbers {
     public static void main(String[] args) {
