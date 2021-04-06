@@ -9,6 +9,7 @@ public class Demo01 {
     }
     public static void a(int... i){
 //        b();
+        
     }
     public void b(){}
 }
